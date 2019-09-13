@@ -35,7 +35,29 @@ document.write("de prijzenlijst voor de pizza's zijn : 3,50 voor kleine pizza's,
 
 
 
-document.write("de totale prijs is €"      +totalep+  "<br> de aantal pizza's die u heeft besteld zijn: <br>" +amountSmall+ " kleine pizza's, " +amountMedium+ " medium pizza's en " +amountLarge+ " grote pizza's ");
+
+
+
+document.write("de kosten voor uw kleine pizza's zijn: €" +totalS+ "<br> De kosten voor uw medium pizza's zijn:€" +totalM+ "<br> de kosten voor uw grote pizza's zijn:€" +totalL)
+
+
+
+
+
+
+
+
+
+
+document.write("<br>de totale prijs is €"      +totalep+  "<br> de aantal pizza's die u heeft besteld zijn: <br>" +amountSmall+ " kleine pizza's, " +amountMedium+ " medium pizza's en " +amountLarge+ " grote pizza's ");
+
+
+
+
+
+
+
+
 
 
 document.write("<br> <br> <br> bedankt voor uw bestelling :]<br> uw bestelling word verwerkt in onze systeem.")
